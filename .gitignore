@@ -1,4 +1,5 @@
 .env
 .ipynb_checkpoints/
 __pycache__/
-*.pyc
+*.pycresearch_agent backup.ipynb
+research_agent backup.ipynb
